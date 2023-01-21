@@ -1,6 +1,6 @@
-### Hi, QuentMe here !
+## Hi, QuentMe here !
 
-## Here are some stats of my GitHub profile :
+Here are some stats of my GitHub profile :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentMe&show_icons=true&theme=radical)
 
