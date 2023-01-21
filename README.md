@@ -1,7 +1,7 @@
 ## Hi, QuentMe here !
 
 - I am mostly proficient with Java, C, and Python
-- You can contact me @ mailto:quentin.mertens@student.uclouvain.be
+- You can contact me [here](mailto:quentin.mertens@student.uclouvain.be)
 
 Here are some stats of my GitHub profile :
 
