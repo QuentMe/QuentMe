@@ -1,5 +1,7 @@
 ## Hi, QuentMe here !
 
+- I'am mostly proficient with Java, C, and Python
+
 Here are some stats of my GitHub profile :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentMe&show_icons=true&theme=radical)
